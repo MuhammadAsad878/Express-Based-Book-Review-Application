@@ -9,12 +9,17 @@ This is a backend-only Express-based Book Review Application, developed as part 
 - RESTful API for managing book reviews
 - CRUD operations for books and reviews
 - Middleware for request handling and validation
+- JWT-based authentication and authorization
 - Unit and integration testing for API endpoints
 
 
 ## Notes
 - This project is **API-based only**, without a frontend.
+- Authentication and authorization are implemented using **JWT-based authentication**.
 - Further documentation and improvements are under development.
 
 ---
 Stay tuned for updates! 🚀
+
+
+
